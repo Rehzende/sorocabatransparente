@@ -15,7 +15,6 @@ jobs:
     - uses: yaananth/run-notebook@v2
       
       with:
-        working-directory: ./notebooks
         notebook: "./notebooks/01 - extracao_dados_vereadores_e_despesas.ipynb"
         isReport: False
         poll: True
