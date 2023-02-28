@@ -8,6 +8,8 @@ on:
 jobs:
   run_notebook:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
@@ -27,11 +29,4 @@ jobs:
         jupyter nbconvert --to notebook --execute notebooks/01_extracao_dados_vereadores_e_despesas.ipynb --output output.ipynb
 
     - name: Commit and push changes
-      uses: EndBug/add-and-commit@v7
-      with:
-        author_name: Bot
-        author_email: rehzende@hotmail.com
-        message: "Update links.json"
-        add: 'dados/relatorios/links.json'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GIT_GITHUB_TOKEN }}
+      uses: stefanzweifel/git-auto-commit-action@v4
