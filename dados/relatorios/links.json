@@ -1,9 +1,11 @@
-[{
+[
+    {
         "url_id": "?id=620ce5c4876faaa2f3a325ba",
         "year": "2022",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/620ce5e5876faaa2f3a32640",
                 "month": "janeiro",
                 "processed": true,
@@ -106,7 +108,8 @@
         "year": "2021",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/603e90036db332166732e855",
                 "month": "janeiro",
                 "processed": true,
@@ -209,7 +212,8 @@
         "year": "2020",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e4e73fcf41c8a1e1d8d24ec",
                 "month": "janeiro",
                 "processed": true,
@@ -312,7 +316,8 @@
         "year": "2019",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dc905d7040f28b44e10",
                 "month": "Janeiro",
                 "processed": true,
@@ -415,7 +420,8 @@
         "year": "2018",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e1d",
                 "month": "Janeiro",
                 "processed": true,
@@ -518,7 +524,8 @@
         "year": "2017",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e2a",
                 "month": "Janeiro",
                 "processed": true,
@@ -621,7 +628,8 @@
         "year": "2016",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e37",
                 "month": "Janeiro",
                 "processed": true,
@@ -724,7 +732,8 @@
         "year": "2015",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e44",
                 "month": "Janeiro",
                 "processed": true,
@@ -827,7 +836,8 @@
         "year": "2014",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e51",
                 "month": "Janeiro",
                 "processed": true,
@@ -930,7 +940,8 @@
         "year": "2013",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e5e",
                 "month": "Janeiro",
                 "processed": true,
@@ -1033,7 +1044,8 @@
         "year": "2012",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e6b",
                 "month": "Janeiro",
                 "processed": true,
@@ -1136,7 +1148,8 @@
         "year": "2011",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e78",
                 "month": "Janeiro",
                 "processed": true,
@@ -1239,7 +1252,8 @@
         "year": "2010",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e85",
                 "month": "Janeiro",
                 "processed": true,
@@ -1342,7 +1356,8 @@
         "year": "2009",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e92",
                 "month": "Janeiro",
                 "processed": true,
@@ -1445,7 +1460,8 @@
         "year": "2008",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e9f",
                 "month": "Janeiro",
                 "processed": true,
@@ -1548,7 +1564,8 @@
         "year": "2007",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eac",
                 "month": "Janeiro",
                 "processed": true,
@@ -1651,7 +1668,8 @@
         "year": "2006",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcf05d7040f28b44eb9",
                 "month": "Janeiro",
                 "processed": true,
@@ -1754,7 +1772,8 @@
         "year": "2005",
         "processed": true,
         "extracted": true,
-        "months": [{
+        "months": [
+            {
                 "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec6",
                 "month": "Junho",
                 "processed": true,
