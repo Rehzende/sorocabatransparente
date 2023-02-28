@@ -1,20 +1,41 @@
 name: Notebook 01 -  Extração de dados
 
-on:  [push]
-  #  schedule:
-  #   #- cron: "0 8 * * *"
-  #   - cron: "*/2 * * * *"
+on:
+  push:
+    branches:
+      - main
 
 jobs:
-  run:
+  run_notebook:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python
-      uses: actions/setup-python@v3
-    - uses: yaananth/run-notebook@v2
-      
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python environment
+      uses: actions/setup-python@v2
       with:
-        notebook: "./notebooks/01 - extracao_dados_vereadores_e_despesas.ipynb"
-        isReport: False
-        poll: True
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        pip install notebook
+        pip install nbconvert
+
+    - name: Execute Jupyter Notebook
+      run: |
+        jupyter nbconvert --to notebook --execute notebooks/01_extracao_dados_vereadores_e_despesas.ipynb --output output.ipynb
+
+    - name: Update links.json
+      run: |
+        python update_links.py
+
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: Your Name
+        author_email: your_email@example.com
+        message: "Update links.json"
+        add: 'dados/relatorios/links.json'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
