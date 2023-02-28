@@ -34,4 +34,4 @@ jobs:
         message: "Update links.json"
         add: 'dados/relatorios/links.json'
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GIT_GITHUB_TOKEN }}
