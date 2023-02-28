@@ -26,15 +26,11 @@ jobs:
       run: |
         jupyter nbconvert --to notebook --execute notebooks/01_extracao_dados_vereadores_e_despesas.ipynb --output output.ipynb
 
-    - name: Update links.json
-      run: |
-        python update_links.py
-
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v7
       with:
-        author_name: Your Name
-        author_email: your_email@example.com
+        author_name: Bot
+        author_email: bot@sorocabatransparente.com.br
         message: "Update links.json"
         add: 'dados/relatorios/links.json'
       env:
