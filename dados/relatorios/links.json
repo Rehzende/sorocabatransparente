@@ -1,127 +1,1834 @@
-[{
+[
+    {
         "url_id": "?id=620ce5c4876faaa2f3a325ba",
         "year": "2022",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/620ce5e5876faaa2f3a32640",
+                "month": "janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/6241de3dd792837117244ad6",
+                "month": "fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/62602bc7e2160451ef94a789",
+                "month": "março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/62868ea176eb08860c676e8a",
+                "month": "abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/62b46716cf869ded53bffee0",
+                "month": "maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/62d1a5afa8905149494f5050",
+                "month": "junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/62ffe266147b2251afb6afb3",
+                "month": "julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/632da2344cca4d05d1534834",
+                "month": "agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/6356c0b3d05cce2c60e6d58a",
+                "month": "setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/63874c1a39b3764a79053ab8",
+                "month": "outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/639b161239b3764a791d2c25",
+                "month": "novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/63d14a3eee6582a5bd0586b4",
+                "month": "dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=6026aa116db332166732e66c",
         "year": "2021",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/603e90036db332166732e855",
+                "month": "janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/60705ae698a9da099e59fc68",
+                "month": "fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/6086db0c98a9da099e59fcf3",
+                "month": "março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/60a52b3f6fb3070577a88eb1",
+                "month": "abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/60d1da8f6fb3070577a8903a",
+                "month": "maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/60f822166fb3070577a891e0",
+                "month": "junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/611d1307476c6208265781b7",
+                "month": "julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/614c90bf476c6208265783c2",
+                "month": "agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/616d70e54254d763adee0ebd",
+                "month": "setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/619664c9afad65937f2062f4",
+                "month": "outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/61c0c72ad85a19a200730c0b",
+                "month": "novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/61e946b6876faaa2f37bc00a",
+                "month": "dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e4e70bff41c8a1e1d8d24e9",
         "year": "2020",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e4e73fcf41c8a1e1d8d24ec",
+                "month": "janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e6fbe8f9415962190c635af",
+                "month": "fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5eb4333b3b6fc2564becad0a",
+                "month": "março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5ec3e45e3b6fc2564becad29",
+                "month": "abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5ee8df46390b9e296a8e9f16",
+                "month": "maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5f0f18815cdb3007d2a85f3d",
+                "month": "junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5f3572acfbc0800892a96615",
+                "month": "julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5f69f8a7fbc0800892a96867",
+                "month": "agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5f917036ff41be662764285e",
+                "month": "setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5fb41c61ff41be66276429cf",
+                "month": "outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5fd9f00a6db332166732e505",
+                "month": "novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/6012b69a6db332166732e5b4",
+                "month": "dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dc905d7040f28b44e0f",
         "year": "2019",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dc905d7040f28b44e10",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dc905d7040f28b44e11",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dc905d7040f28b44e12",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dc905d7040f28b44e13",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dc905d7040f28b44e14",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dc905d7040f28b44e15",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dc905d7040f28b44e16",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e17",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e18",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e19",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e1a",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e1b",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dca05d7040f28b44e1c",
         "year": "2018",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e1d",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e1e",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e1f",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e20",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e21",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e22",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e23",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e24",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e25",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e26",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dca05d7040f28b44e27",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e28",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dcb05d7040f28b44e29",
         "year": "2017",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e2a",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e2b",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e2c",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e2d",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e2e",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e2f",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e30",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e31",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e32",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e33",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e34",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e35",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dcb05d7040f28b44e36",
         "year": "2016",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e37",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e38",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e39",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e3a",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e3b",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e3c",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e3d",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e3e",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e3f",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e40",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e41",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e42",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dcb05d7040f28b44e43",
         "year": "2015",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e44",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e45",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e46",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e47",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e48",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcb05d7040f28b44e49",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e4a",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e4b",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e4c",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e4d",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e4e",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e4f",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dcc05d7040f28b44e50",
         "year": "2014",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e51",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e52",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e53",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e54",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e55",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e56",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e57",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e58",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e59",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e5a",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e5b",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e5c",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dcc05d7040f28b44e5d",
         "year": "2013",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e5e",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e5f",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e60",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e61",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e62",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e63",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e64",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e65",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e66",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e67",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e68",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcc05d7040f28b44e69",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dcc05d7040f28b44e6a",
         "year": "2012",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e6b",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e6c",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e6d",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e6e",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e6f",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e70",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e71",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e72",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e73",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e74",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e75",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e76",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dcd05d7040f28b44e77",
         "year": "2011",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e78",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e79",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e7a",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e7b",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e7c",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e7d",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e7e",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e7f",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e80",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e81",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e82",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e83",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dcd05d7040f28b44e84",
         "year": "2010",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e85",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e86",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e87",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e88",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e89",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e8a",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e8b",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e8c",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e8d",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e8e",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcd05d7040f28b44e8f",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e90",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dce05d7040f28b44e91",
         "year": "2009",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e92",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e93",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e94",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e95",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e96",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e97",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e98",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e99",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e9a",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e9b",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e9c",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e9d",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dce05d7040f28b44e9e",
         "year": "2008",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44e9f",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea0",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea1",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea2",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea3",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea4",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea5",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea6",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea7",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea8",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ea9",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eaa",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dce05d7040f28b44eab",
         "year": "2007",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eac",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44ead",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eae",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eaf",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eb0",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eb1",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eb2",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eb3",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eb4",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eb5",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dce05d7040f28b44eb6",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcf05d7040f28b44eb7",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dcf05d7040f28b44eb8",
         "year": "2006",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dcf05d7040f28b44eb9",
+                "month": "Janeiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd805d7040f28b44eba",
+                "month": "Fevereiro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd805d7040f28b44ebb",
+                "month": "Março",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd805d7040f28b44ebc",
+                "month": "Abril",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd805d7040f28b44ebd",
+                "month": "Maio",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd805d7040f28b44ebe",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd805d7040f28b44ebf",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec0",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec1",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec2",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec3",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec4",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     },
     {
         "url_id": "?id=5e3f0dd905d7040f28b44ec5",
         "year": "2005",
         "processed": false,
         "extracted": false,
-        "months": []
+        "months": [
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec6",
+                "month": "Junho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec7",
+                "month": "Julho",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec8",
+                "month": "Agosto",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ec9",
+                "month": "Setembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44eca",
+                "month": "Outubro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ecb",
+                "month": "Novembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            },
+            {
+                "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/5e3f0dd905d7040f28b44ecc",
+                "month": "Dezembro",
+                "processed": false,
+                "extracted": false,
+                "report_path": "",
+                "file_extension": ""
+            }
+        ]
     }
 ]
