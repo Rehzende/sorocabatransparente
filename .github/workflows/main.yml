@@ -30,7 +30,7 @@ jobs:
       uses: EndBug/add-and-commit@v7
       with:
         author_name: Bot
-        author_email: bot@sorocabatransparente.com.br
+        author_email: rehzende@hotmail.com
         message: "Update links.json"
         add: 'dados/relatorios/links.json'
       env:
