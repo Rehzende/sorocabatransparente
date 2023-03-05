@@ -1,0 +1,3 @@
+*.nbconvert.ipynb
+**/*.nbconvert.ipynb
+output.ipynb
