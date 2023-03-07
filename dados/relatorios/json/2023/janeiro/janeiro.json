@@ -1,1 +1,182 @@
-{"0":{"Vereador":"ANT\u00d4NIO CARLOS SILVANO JUNIOR","Aluguel Impressora":"216,39","Material Escrit\u00f3rio":"311,60","Postagem":"104,91","Combustivel":0.0,"Total":"632,90","Reembolso":0.0},"1":{"Vereador":"C\u00cdCERO JO\u00c3O DA SILVA","Aluguel Impressora":"353,64","Material Escrit\u00f3rio":"347,31","Postagem":"815,09","Combustivel":0.0,"Total":"1.516,04","Reembolso":0.0},"2":{"Vereador":"CRISTIANO ANUNCIA\u00c7\u00c3O DOS PASSOS","Aluguel Impressora":"298,73","Material Escrit\u00f3rio":"144,19","Postagem":"186,86","Combustivel":"133,15","Total":"762,93","Reembolso":0.0},"3":{"Vereador":"DYLAN ROBERTO VIANA DANTAS","Aluguel Impressora":"161,90","Material Escrit\u00f3rio":"201,58","Postagem":0.0,"Combustivel":0.0,"Total":"363,48","Reembolso":0.0},"4":{"Vereador":"F\u00c1BIO SIMOA MENDES DO CARMO LEITE","Aluguel Impressora":"192,69","Material Escrit\u00f3rio":"598,12","Postagem":"365,95","Combustivel":0.0,"Total":"1.156,76","Reembolso":0.0},"5":{"Vereador":"FAUSTO SALVADOR PERES","Aluguel Impressora":"210,21","Material Escrit\u00f3rio":"408,06","Postagem":"124,19","Combustivel":0.0,"Total":"742,46","Reembolso":0.0},"6":{"Vereador":"FERNANDA SCHLIC GARCIA","Aluguel Impressora":"146,58","Material Escrit\u00f3rio":"218,47","Postagem":"19,38","Combustivel":0.0,"Total":"384,43","Reembolso":0.0},"7":{"Vereador":"FERNANDO ALVES LISBOA DINI","Aluguel Impressora":"157,42","Material Escrit\u00f3rio":"396,04","Postagem":"161,49","Combustivel":0.0,"Total":"714,95","Reembolso":0.0},"8":{"Vereador":"FRANCISCO FRAN\u00c7A DA SILVA","Aluguel Impressora":"137,12","Material Escrit\u00f3rio":"177,51","Postagem":"2,31","Combustivel":0.0,"Total":"316,94","Reembolso":0.0},"9":{"Vereador":"GERVINO CL\u00c1UDIO GON\u00c7ALVES","Aluguel Impressora":"253,04","Material Escrit\u00f3rio":"216,11","Postagem":0.0,"Combustivel":0.0,"Total":"469,15","Reembolso":0.0},"10":{"Vereador":"H\u00c9LIO MAURO SILVA BRASILEIRO","Aluguel Impressora":"-","Material Escrit\u00f3rio":0.0,"Postagem":0.0,"Combustivel":0.0,"Total":0.0,"Reembolso":0.0},"11":{"Vereador":"IARA BERNARDI","Aluguel Impressora":"165,39","Material Escrit\u00f3rio":"859,65","Postagem":"7,13","Combustivel":0.0,"Total":"1.032,17","Reembolso":0.0},"12":{"Vereador":"\u00cdTALO GABRIEL MOREIRA","Aluguel Impressora":"175,22","Material Escrit\u00f3rio":"212,15","Postagem":"394,00","Combustivel":0.0,"Total":"781,37","Reembolso":"692,51"},"13":{"Vereador":"JO\u00c3O DONIZETI SILVESTRE","Aluguel Impressora":"229,06","Material Escrit\u00f3rio":"804,06","Postagem":"135,49","Combustivel":0.0,"Total":"1.168,61","Reembolso":0.0},"14":{"Vereador":"JOS\u00c9 VINICIUS CAMPOS AITH","Aluguel Impressora":"148,66","Material Escrit\u00f3rio":0.0,"Postagem":0.0,"Combustivel":0.0,"Total":"148,66","Reembolso":0.0},"15":{"Vereador":"LU\u00cdS SANTOS PEREIRA FILHO","Aluguel Impressora":"143,93","Material Escrit\u00f3rio":"624,04","Postagem":"154,47","Combustivel":0.0,"Total":"922,44","Reembolso":0.0},"16":{"Vereador":"P\u00c9RICLES REGIS MENDON\u00c7A DE LIMA","Aluguel Impressora":"171,73","Material Escrit\u00f3rio":"156,10","Postagem":"77,52","Combustivel":0.0,"Total":"405,35","Reembolso":0.0},"17":{"Vereador":"RODRIGO PIVETA BERNO","Aluguel Impressora":"205,00","Material Escrit\u00f3rio":"654,67","Postagem":"227,50","Combustivel":0.0,"Total":"1.087,17","Reembolso":0.0},"18":{"Vereador":"SALATIEL DOS SANTOS HERGESEL","Aluguel Impressora":"141,89","Material Escrit\u00f3rio":"192,60","Postagem":0.0,"Combustivel":0.0,"Total":"334,49","Reembolso":0.0},"19":{"Vereador":"VITOR ALEXANDRE RODRIGUES","Aluguel Impressora":"170,52","Material Escrit\u00f3rio":"542,85","Postagem":"63,94","Combustivel":0.0,"Total":"777,31","Reembolso":0.0}}
+{
+    "0": {
+        "Vereador": "ANT\u00d4NIO CARLOS SILVANO JUNIOR",
+        "Aluguel Impressora": "216,39",
+        "Material Escrit\u00f3rio": "311,60",
+        "Postagem": "104,91",
+        "Combustivel": 0.0,
+        "Total": "632,90",
+        "Reembolso": 0.0
+    },
+    "1": {
+        "Vereador": "C\u00cdCERO JO\u00c3O DA SILVA",
+        "Aluguel Impressora": "353,64",
+        "Material Escrit\u00f3rio": "347,31",
+        "Postagem": "815,09",
+        "Combustivel": 0.0,
+        "Total": "1.516,04",
+        "Reembolso": 0.0
+    },
+    "2": {
+        "Vereador": "CRISTIANO ANUNCIA\u00c7\u00c3O DOS PASSOS",
+        "Aluguel Impressora": "298,73",
+        "Material Escrit\u00f3rio": "144,19",
+        "Postagem": "186,86",
+        "Combustivel": "133,15",
+        "Total": "762,93",
+        "Reembolso": 0.0
+    },
+    "3": {
+        "Vereador": "DYLAN ROBERTO VIANA DANTAS",
+        "Aluguel Impressora": "161,90",
+        "Material Escrit\u00f3rio": "201,58",
+        "Postagem": 0.0,
+        "Combustivel": 0.0,
+        "Total": "363,48",
+        "Reembolso": 0.0
+    },
+    "4": {
+        "Vereador": "F\u00c1BIO SIMOA MENDES DO CARMO LEITE",
+        "Aluguel Impressora": "192,69",
+        "Material Escrit\u00f3rio": "598,12",
+        "Postagem": "365,95",
+        "Combustivel": 0.0,
+        "Total": "1.156,76",
+        "Reembolso": 0.0
+    },
+    "5": {
+        "Vereador": "FAUSTO SALVADOR PERES",
+        "Aluguel Impressora": "210,21",
+        "Material Escrit\u00f3rio": "408,06",
+        "Postagem": "124,19",
+        "Combustivel": 0.0,
+        "Total": "742,46",
+        "Reembolso": 0.0
+    },
+    "6": {
+        "Vereador": "FERNANDA SCHLIC GARCIA",
+        "Aluguel Impressora": "146,58",
+        "Material Escrit\u00f3rio": "218,47",
+        "Postagem": "19,38",
+        "Combustivel": 0.0,
+        "Total": "384,43",
+        "Reembolso": 0.0
+    },
+    "7": {
+        "Vereador": "FERNANDO ALVES LISBOA DINI",
+        "Aluguel Impressora": "157,42",
+        "Material Escrit\u00f3rio": "396,04",
+        "Postagem": "161,49",
+        "Combustivel": 0.0,
+        "Total": "714,95",
+        "Reembolso": 0.0
+    },
+    "8": {
+        "Vereador": "FRANCISCO FRAN\u00c7A DA SILVA",
+        "Aluguel Impressora": "137,12",
+        "Material Escrit\u00f3rio": "177,51",
+        "Postagem": "2,31",
+        "Combustivel": 0.0,
+        "Total": "316,94",
+        "Reembolso": 0.0
+    },
+    "9": {
+        "Vereador": "GERVINO CL\u00c1UDIO GON\u00c7ALVES",
+        "Aluguel Impressora": "253,04",
+        "Material Escrit\u00f3rio": "216,11",
+        "Postagem": 0.0,
+        "Combustivel": 0.0,
+        "Total": "469,15",
+        "Reembolso": 0.0
+    },
+    "10": {
+        "Vereador": "H\u00c9LIO MAURO SILVA BRASILEIRO",
+        "Aluguel Impressora": "-",
+        "Material Escrit\u00f3rio": 0.0,
+        "Postagem": 0.0,
+        "Combustivel": 0.0,
+        "Total": 0.0,
+        "Reembolso": 0.0
+    },
+    "11": {
+        "Vereador": "IARA BERNARDI",
+        "Aluguel Impressora": "165,39",
+        "Material Escrit\u00f3rio": "859,65",
+        "Postagem": "7,13",
+        "Combustivel": 0.0,
+        "Total": "1.032,17",
+        "Reembolso": 0.0
+    },
+    "12": {
+        "Vereador": "\u00cdTALO GABRIEL MOREIRA",
+        "Aluguel Impressora": "175,22",
+        "Material Escrit\u00f3rio": "212,15",
+        "Postagem": "394,00",
+        "Combustivel": 0.0,
+        "Total": "781,37",
+        "Reembolso": "692,51"
+    },
+    "13": {
+        "Vereador": "JO\u00c3O DONIZETI SILVESTRE",
+        "Aluguel Impressora": "229,06",
+        "Material Escrit\u00f3rio": "804,06",
+        "Postagem": "135,49",
+        "Combustivel": 0.0,
+        "Total": "1.168,61",
+        "Reembolso": 0.0
+    },
+    "14": {
+        "Vereador": "JOS\u00c9 VINICIUS CAMPOS AITH",
+        "Aluguel Impressora": "148,66",
+        "Material Escrit\u00f3rio": 0.0,
+        "Postagem": 0.0,
+        "Combustivel": 0.0,
+        "Total": "148,66",
+        "Reembolso": 0.0
+    },
+    "15": {
+        "Vereador": "LU\u00cdS SANTOS PEREIRA FILHO",
+        "Aluguel Impressora": "143,93",
+        "Material Escrit\u00f3rio": "624,04",
+        "Postagem": "154,47",
+        "Combustivel": 0.0,
+        "Total": "922,44",
+        "Reembolso": 0.0
+    },
+    "16": {
+        "Vereador": "P\u00c9RICLES REGIS MENDON\u00c7A DE LIMA",
+        "Aluguel Impressora": "171,73",
+        "Material Escrit\u00f3rio": "156,10",
+        "Postagem": "77,52",
+        "Combustivel": 0.0,
+        "Total": "405,35",
+        "Reembolso": 0.0
+    },
+    "17": {
+        "Vereador": "RODRIGO PIVETA BERNO",
+        "Aluguel Impressora": "205,00",
+        "Material Escrit\u00f3rio": "654,67",
+        "Postagem": "227,50",
+        "Combustivel": 0.0,
+        "Total": "1.087,17",
+        "Reembolso": 0.0
+    },
+    "18": {
+        "Vereador": "SALATIEL DOS SANTOS HERGESEL",
+        "Aluguel Impressora": "141,89",
+        "Material Escrit\u00f3rio": "192,60",
+        "Postagem": 0.0,
+        "Combustivel": 0.0,
+        "Total": "334,49",
+        "Reembolso": 0.0
+    },
+    "19": {
+        "Vereador": "VITOR ALEXANDRE RODRIGUES",
+        "Aluguel Impressora": "170,52",
+        "Material Escrit\u00f3rio": "542,85",
+        "Postagem": "63,94",
+        "Combustivel": 0.0,
+        "Total": "777,31",
+        "Reembolso": 0.0
+    }
+}

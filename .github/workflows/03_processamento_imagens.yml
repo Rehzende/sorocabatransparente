@@ -1,4 +1,4 @@
-name: Notebook 02 -  Extração das Despesas dos PDFs
+name: Notebook 03 -  Processamento das Imagens com as despesas
 
 on:
   push:
