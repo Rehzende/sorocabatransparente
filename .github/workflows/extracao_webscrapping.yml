@@ -21,7 +21,6 @@ jobs:
 
     - name: Install dependencies
       run: |
-        sudo apt install ghostscript python3-tk -y
         pip install notebook
         pip install nbconvert
 
