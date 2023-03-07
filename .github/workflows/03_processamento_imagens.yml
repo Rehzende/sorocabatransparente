@@ -27,7 +27,7 @@ jobs:
 
     - name: Execute Jupyter Notebook
       run: |
-        jupyter nbconvert --to notebook --execute notebooks/02_extracao_despesas_pdf.ipynb
+        jupyter nbconvert --to notebook --execute notebooks/03_processamento_imagens.ipynb
 
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
