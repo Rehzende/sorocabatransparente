@@ -1,0 +1,32 @@
+name: Notebook 01 -  Extração das Despesas dos PDFs
+
+on:
+  push:
+    paths:
+    - 'dados/relatorios/links.json'
+
+jobs:
+  run_notebook:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python environment
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        pip install notebook
+        pip install nbconvert
+
+    - name: Execute Jupyter Notebook
+      run: |
+        jupyter nbconvert --to notebook --execute notebooks/02_extracao_despesas_pdf.ipynb
+
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v4
