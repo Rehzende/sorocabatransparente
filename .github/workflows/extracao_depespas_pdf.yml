@@ -1,4 +1,4 @@
-name: Notebook 01 -  Extração das Despesas dos PDFs
+name: Notebook 02 -  Extração das Despesas dos PDFs
 
 on:
   push:
