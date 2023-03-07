@@ -1815,12 +1815,12 @@
     {
         "url_id": "?id=64063df73c1532f31863841d",
         "year": "2023",
-        "processed": false,
+        "processed": true,
         "extracted": true,
         "months": [{
             "url_id": "http://www.camarasorocaba.sp.gov.br:8082/publicFiles/file/64063e103c1532f3186384ca",
             "month": "janeiro",
-            "processed": false,
+            "processed": true,
             "extracted": true,
             "report_path": "../dados/relatorios/json/2023/janeiro/janeiro.json",
             "file_extension": "pdf"
