@@ -273,5 +273,10 @@
         "nome": "Salatiel dos Santos Hergesel",
         "id": 150,
         "imagem_url": "http://syslegis.camarasorocaba.sp.gov.br:8383/syslegis/vereador/getConteudo/150"
+    },
+    {
+        "nome": "Caio de Oliveira Egêa Silveira",
+        "id": 158,
+        "imagem_url": "http://syslegis.camarasorocaba.sp.gov.br:8383/syslegis/vereador/getConteudo/158"
     }
 ]
